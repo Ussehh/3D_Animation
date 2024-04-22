@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  THREEDRotation
-//
-//  Created by Federico on 11/01/2022.
-//
+
 
 import SwiftUI
 
